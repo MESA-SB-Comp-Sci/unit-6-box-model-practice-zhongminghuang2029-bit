@@ -2,3 +2,11 @@
     box-sizing: border-box;
 }
 
+h2 {
+    width: 200px;
+    height:200px;
+    background-color: pink;
+    padding: 50px;
+    border:20px solid palegoldenrod;
+    margin:50px;
+}
